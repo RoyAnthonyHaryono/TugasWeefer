@@ -1,0 +1,16 @@
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.exe
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.deps.json
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.runtimeconfig.json
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.runtimeconfig.dev.json
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.dll
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\ref\Calculator Luas bangunan datar.dll
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\bin\Debug\net5.0\Calculator Luas bangunan datar.pdb
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.csproj.AssemblyReference.cache
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.AssemblyInfoInputs.cache
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.AssemblyInfo.cs
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.csproj.CoreCompileInputs.cache
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.dll
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\ref\Calculator Luas bangunan datar.dll
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.pdb
+C:\Users\Roy\source\repos\Calculator Luas bangunan datar\Calculator Luas bangunan datar\obj\Debug\net5.0\Calculator Luas bangunan datar.genruntimeconfig.cache

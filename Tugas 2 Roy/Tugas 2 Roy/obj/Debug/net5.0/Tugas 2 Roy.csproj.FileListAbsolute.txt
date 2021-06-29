@@ -1,0 +1,16 @@
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.exe
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.deps.json
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.runtimeconfig.json
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.runtimeconfig.dev.json
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.dll
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\ref\Tugas 2 Roy.dll
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\bin\Debug\net5.0\Tugas 2 Roy.pdb
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.csproj.AssemblyReference.cache
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.AssemblyInfoInputs.cache
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.AssemblyInfo.cs
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.csproj.CoreCompileInputs.cache
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.dll
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\ref\Tugas 2 Roy.dll
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.pdb
+E:\Source Code\repos\Tugas 2 Roy\Tugas 2 Roy\obj\Debug\net5.0\Tugas 2 Roy.genruntimeconfig.cache

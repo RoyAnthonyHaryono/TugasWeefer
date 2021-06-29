@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator Luas bangunan datar", "Calculator Luas bangunan datar\Calculator Luas bangunan datar.csproj", "{823A7E9F-E391-4344-BF5D-D8699D64510F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823A7E9F-E391-4344-BF5D-D8699D64510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823A7E9F-E391-4344-BF5D-D8699D64510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823A7E9F-E391-4344-BF5D-D8699D64510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823A7E9F-E391-4344-BF5D-D8699D64510F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04028059-908F-4BC4-93E8-D9AE7A167D30}
+	EndGlobalSection
+EndGlobal
