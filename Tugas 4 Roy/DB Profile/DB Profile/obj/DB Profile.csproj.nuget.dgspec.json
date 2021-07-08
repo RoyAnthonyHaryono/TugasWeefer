@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Source Code\\repos\\Tugas 4 Roy\\DB Profile\\DB Profile\\DB Profile.csproj": {}
+  },
+  "projects": {
+    "E:\\Source Code\\repos\\Tugas 4 Roy\\DB Profile\\DB Profile\\DB Profile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Source Code\\repos\\Tugas 4 Roy\\DB Profile\\DB Profile\\DB Profile.csproj",
+        "projectName": "DB Profile",
+        "projectPath": "E:\\Source Code\\repos\\Tugas 4 Roy\\DB Profile\\DB Profile\\DB Profile.csproj",
+        "packagesPath": "C:\\Users\\Roy\\.nuget\\packages\\",
+        "outputPath": "E:\\Source Code\\repos\\Tugas 4 Roy\\DB Profile\\DB Profile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
