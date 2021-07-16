@@ -1,0 +1,10 @@
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\bin\Debug\Personal Budget finance.exe.config
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\bin\Debug\Personal Budget finance.exe
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\bin\Debug\Personal Budget finance.pdb
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal Budget finance.csproj.AssemblyReference.cache
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal_Budget_finance.Form1.resources
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal_Budget_finance.Properties.Resources.resources
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal Budget finance.csproj.GenerateResource.cache
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal Budget finance.csproj.CoreCompileInputs.cache
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal Budget finance.exe
+E:\Source Code\repos\Tugas 6 Roy\Personal Budget finance\Personal Budget finance\obj\Debug\Personal Budget finance.pdb
