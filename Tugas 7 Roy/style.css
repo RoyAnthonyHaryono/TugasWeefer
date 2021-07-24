@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image:url(https://img3.goodfon.com/wallpaper/nbig/7/26/chasy-budilnik-vremya-4010.jpg);
+    background-size: cover;
+}
+
+html {
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#WaktuSekarang {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 200px;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(102, 102, 102);
+}
+
+#AlarmContainer {
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    color: rgb(102, 102, 102);
+}
+
+#AlarmJam {
+    padding-left: 10px;
+    margin-left: 5px;
+    
+}
+
+#AlarmMenit {
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.Jam {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.Menit {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#ButtonContainer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+
+}
+
+#Terapkan {
+    cursor: pointer;
+    background-color:rgb(102, 102, 102);
+    padding: 5px;
+    color: white;
+    margin: 25px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+    font-size: 16px;
+}
+#Terapkan:hover {
+    background-color: rgb(78, 78, 78);
+}
+#Batalkan {
+    cursor: pointer;
+    background-color:rgb(102, 102, 102);
+    padding: 5px;
+    color: white;
+    margin: 25px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+    font-size: 16px;
+}
+#Batalkan:hover{
+    background-color: rgb(78, 78, 78);
+}

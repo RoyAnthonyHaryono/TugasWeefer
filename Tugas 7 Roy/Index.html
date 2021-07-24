@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body onload="clock()">
+        
+        
+        <audio id="myAudio">
+            <source src="bensound-dubstep.mp3" type="audio/mpeg">
+        </audio>
+        <div id="WaktuSekarang"></div>
+        <div id="AlarmContainer">
+            <h2>Set Alarm Time</h2>
+            <label class="Jam">Hour</label>
+            <select id="AlarmJam"></select>          
+            <label class="Menit">Minute</label>
+            <select id="AlarmMenit"></select>
+        </div>
+        <div id="ButtonContainer">
+            <div><button id= "Terapkan" onclick="TerapkanAlarm()">Terapkan</button></div>
+
+            <div><button id= "Batalkan" onclick="BatalAlarm()">Hentikan</button></div>
+
+        </div>
+
+        <script>
+                    
+            var audio = document.getElementById("myAudio");
+            
+            function clock(){
+                var date = new Date();
+                let hour = date.getHours();
+                let minute = date.getMinutes();
+                let second = date.getSeconds();
+                hour = checkTime(hour);
+                minute = checkTime(minute);
+                second = checkTime(second);          
+                document.getElementById("WaktuSekarang").innerHTML = hour + ":" + minute + ":" + second;
+                setTimeout(clock, 1000);
+            }
+            function checkTime(i) {
+                 if (i < 10) {i = "0" + i};  
+                    return i;
+            }
+            
+            function MenuJam(){
+                var select = document.getElementById("AlarmJam");
+                var jam = 23;
+                for (i=0; i <= jam; i++){
+                    select.options[select.options.length] = new Option(i < 10 ? "0" + i : i, i);
+                }
+
+            }
+           MenuJam(); 
+           function MenuMenit(){
+               var select = document.getElementById("AlarmMenit");
+               var menit = 59;
+               for (i=0; i <= menit; i++){
+                   select.options[select.options.length] = new Option(i < 10 ? "0" + i : i, i)
+               }
+           }
+           MenuMenit();
+
+           function TerapkanAlarm(){
+               var date = new Date();
+               var jam = document.getElementById("AlarmJam");
+               var menit = document.getElementById("AlarmMenit");
+
+               var PilihanJam = jam.options[jam.selectedIndex].value;
+               var PilihanMenit = menit.options[menit.selectedIndex].value;
+
+               PilihanJam = checkTime(PilihanJam);
+               PilihanMenit = checkTime(PilihanMenit);
+
+               var alarm = PilihanJam + ":" + PilihanMenit;
+
+               var JamSekarang = date.getHours();
+               var MenitSekarang = date.getMinutes();
+               JamSekarang = checkTime(JamSekarang);
+               MenitSekarang = checkTime(MenitSekarang);
+               var timenow = JamSekarang + ":" + MenitSekarang;                         
+               if (PilihanJam == JamSekarang & PilihanMenit == MenitSekarang){
+                   audio.play();
+               }
+
+               setTimeout(TerapkanAlarm, 1000);
+           }
+           function BatalAlarm() {
+              audio.pause();          
+            }
+
+
+        </script>
+
+    </body>
+</html>
