@@ -1,0 +1,42 @@
+*{
+    position : relative;
+}
+
+
+.provinsi h3{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 9px;
+    padding : 0;
+}
+
+#kota {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.data{
+    position : relative;
+    width : 500px;
+    height : 300px;
+    border : 1px solid black;
+    font-size: 10px;
+    background-color: rgb(159, 209, 241);
+    border-radius: 5px;
+
+}
+.data h3{
+    margin : 0;
+}
+.data p{
+    margin : 7px;
+}
+img{
+    border: 1px solid black;
+    position : absolute;
+    left: 350px;
+    top: 30px;
+    width: 125px;
+    height: 150px;
+}
